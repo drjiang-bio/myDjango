@@ -1,2 +1,5 @@
 # myDjango log
 1.mblog/mblog/settings.py 192.168.3.8
+
+# 不同计算机
+pip install -r requirements.txt
