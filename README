@@ -3,3 +3,6 @@
 
 # 不同计算机
 pip install -r requirements.txt
+
+
+# first git pull in another computer.
